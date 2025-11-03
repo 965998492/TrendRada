@@ -76,23 +76,23 @@ weight:
 
 # name 可以定义任意名称，只具有显示作用，即使项目运行了几天后，忽然改掉 name 也不会影响代码的正常运行
 platforms:
-  - 平台名称: 企查查
-    监控入口: https://www.qcc.com/
-    热点板块: 法律诉讼
-  - 平台名称: 中国裁判文书网
-    监控入口: https://wenshu.court.gov.cn/
-    热点板块: 商事案件
-  - 平台名称: 律协官网
-    监控入口: https://www.acla.org.cn/
-    热点板块: 商事诉讼动态
-  - 平台名称: 同花顺财经
-    监控入口: https://news.10jqka.com.cn/
-    热点板块: 商事纠纷
-  - 平台名称: 知乎
-    监控入口: https://www.zhihu.com/
-    热点板块: 商事诉讼讨论
-   -平台名称：企查查法律板块
-   -平台名称：中国商事仲裁网
-   -平台名称：无诉
-   -平台名称：同花顺法律频道
-   -平台名称：最高人民法院官网
+   -name: 企查查
+    ur1: "https://www.qcc.com/"
+    section: "法律诉讼"
+  
+  - name: "中国裁判文书网"
+    ur1: "https://wenshu.court.gov.cn/"
+    section: "商事案件"
+  
+  - name: "律协官网"
+    ur1: "https://www.acla.org.cn/"
+    section: "商事诉讼动态"
+ 
+  - name: "同花顺财经"
+    ur1: "https://news.10jqka.com.cn/"
+    section: "商事纠纷"
+  
+  - name: "知乎"
+    ur1: "https://www.zhihu.com/"
+    section: "商事诉讼讨论"
+  
