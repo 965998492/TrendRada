@@ -76,23 +76,52 @@ weight:
 
 # name 可以定义任意名称，只具有显示作用，即使项目运行了几天后，忽然改掉 name 也不会影响代码的正常运行
 platforms:
-  - name: 企查查
-    ur1: "https://www.qcc.com/"
+  - id: "qichacha"
+    name: "企查查"
+    url: "https://www.qcc.com/"
     section: "法律诉讼"
-  
-  - name: "中国裁判文书网"
-    ur1: "https://wenshu.court.gov.cn/"
+    
+  - id: "wenshu"
+    name: "中国裁判文书网" 
+    url: "https://wenshu.court.gov.cn/"
     section: "商事案件"
-  
-  - name: "律协官网"
-    ur1: "https://www.acla.org.cn/"
+    
+  - id: "acla"
+    name: "律协官网"
+    url: "https://www.acla.org.cn/"
     section: "商事诉讼动态"
- 
-  - name: "同花顺财经"
-    ur1: "https://news.10jqka.com.cn/"
+    
+  - id: "10jqka"
+    name: "同花顺财经"
+    url: "https://news.10jqka.com.cn/"
     section: "商事纠纷"
-  
-  - name: "知乎"
-    ur1: "https://www.zhihu.com/"
+    
+  - id: "zhihu"
+    name: "知乎"
+    url: "https://www.zhihu.com/"
     section: "商事诉讼讨论"
-  
+    
+  - id: "qichacha_law"
+    name: "企查查法律板块"
+    url: "https://www.qcc.com/"
+    section: "法律板块"
+    
+  - id: "ccarb"
+    name: "中国商事仲裁网"
+    url: "http://www.ccarb.org/"
+    section: "商事仲裁"
+    
+  - id: "itslaw"
+    name: "无讼"
+    url: "https://www.itslaw.com/"
+    section: "商事案例"
+    
+  - id: "10jqka_law"
+    name: "同花顺法律频道"
+    url: "https://news.10jqka.com.cn/"
+    section: "法律频道"
+    
+  - id: "court_gov"
+    name: "最高人民法院官网"
+    url: "http://www.court.gov.cn/"
+    section: "司法案例"
