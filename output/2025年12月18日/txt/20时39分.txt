@@ -1,0 +1,32 @@
+zhihu | 知乎
+1. 如何看待媒体报道深圳少年卖烧鸡日入过万，每月打几万给父母，烧鸡真有这么大的盈利空间吗？ [URL:https://www.zhihu.com/question/1984374916108294107]
+2. 小明要算账，但是计算器上的（6）键坏了，要计算 50×36 怎么办？ [URL:https://www.zhihu.com/question/9939906834]
+3. 周杰伦代言美团外卖了，会带来多大的品牌效应？为什么感觉他的代言都很「接地气」？ [URL:https://www.zhihu.com/question/1984911361419997821]
+4. 假如古代长城用的是 C140 混凝土，那千百年下来会完整的留存至今还是损坏的更加严重？ [URL:https://www.zhihu.com/question/7371371683]
+5. 如何看待哈工大北京研究院的成立？ [URL:https://www.zhihu.com/question/1984253888463909129]
+6. 单位有个关系不错的同事，我总请她吃饭，年底评优的时候，她却没选我，为什么？ [URL:https://www.zhihu.com/question/1984395432160429747]
+7. 搞不懂为什么农村的孩子和城市的孩子在人群中一眼就能分辩出来？ [URL:https://www.zhihu.com/question/443706865]
+8. NBA 球星保罗为凝聚球队精心筹办线下活动，却几乎无人赴约，近年来职场环境发生了哪些变化？ [URL:https://www.zhihu.com/question/1984937188912304720]
+9. 女子借款 13 万滚到近 1300 万，「套路贷」伪装成住房租赁公司，类似情况可以怎样识别和避免？ [URL:https://www.zhihu.com/question/1984886001353582360]
+10. 第 98 届奥斯卡「最佳国际影片」15 强短名单出炉，《南京照相馆》遗憾被弃选，你觉得谁能入围、获奖？ [URL:https://www.zhihu.com/question/1984619083237389160]
+11. 2025 年 12 月 18 日起，海南自由贸易港正式启动全岛封关，此举具有哪些积极意义？ [URL:https://www.zhihu.com/question/1984212479069409354]
+12. 阅片 3K 以上的大神为什么有那么多时间看电影？ [URL:https://www.zhihu.com/question/26830087]
+13. 乒乓球名将倪夏莲宣布复出，曾计划 64 岁挑战奥运，如何评价她的坚持？ [URL:https://www.zhihu.com/question/1984289124694369529]
+14. 美队确认回归主演《复联 5》并出现在首支预告中，这对漫威电影宇宙意味着什么？ [URL:https://www.zhihu.com/question/1984044366617141741]
+15. 广州破获特大走私孕妇血样系列案，超十万份血样数据被非法送往境外，可能引发哪些潜在风险？ [URL:https://www.zhihu.com/question/1984378628788680334]
+16. 摩尔线程有没有机会追上英伟达？ [URL:https://www.zhihu.com/question/633883979]
+17. 为什么复制 vscode 里面的代码到 word 可以保持语法高亮? [URL:https://www.zhihu.com/question/559520814]
+18. 现代 C++ 开发中，过度使用 shared_ptr 是否已经成为了一种新的「代码恶臭」？ [URL:https://www.zhihu.com/question/1982931166802772142]
+19. 我们穷尽一生所追寻的「真实自我」，是否只是一个成功骗过了自己的、精心编辑的故事版本？ [URL:https://www.zhihu.com/question/1984193253080315238]
+20. 有哪些值得借鉴的工作文件分类和整理方法？ [URL:https://www.zhihu.com/question/34633472]
+
+==== 以下ID请求失败 ====
+qichacha
+wenshu
+acla
+10jqka
+qichacha_law
+ccarb
+itslaw
+10jqka_law
+court_gov
