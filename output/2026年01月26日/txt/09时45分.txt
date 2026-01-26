@@ -1,0 +1,32 @@
+zhihu | 知乎
+1. 印度一邦暴发尼帕病毒疫情，可通过被污染的食物传播，尚无有效疗法，具体什么情况？相比其他病毒它有何不同？ [URL:https://www.zhihu.com/question/1998812437202301324]
+2. 美国首次召集西半球 34 国军方高级官员举行会议，有何深层目的？哪些信息值得关注？ [URL:https://www.zhihu.com/question/1998480988972475564]
+3. 32GB 内存价格涨至三四千元，厂商利润率高达 82%，原因何在？将带来哪些影响？ [URL:https://www.zhihu.com/question/1994198381476742387]
+4. 在互联网大厂年薪百万，但每天工作到凌晨 2 点，体检出一身病，该不该辞职？ [URL:https://www.zhihu.com/question/1997619105981813675]
+5. 独立开发者猜测 Windows 终局是 Linux，是这样吗？ [URL:https://www.zhihu.com/question/1997009859061769540]
+6. 当语文老师就需要阅读量吗？ [URL:https://www.zhihu.com/question/4908162480]
+7. 《一拳超人》中埼玉老师更喜欢地狱吹雪还是战栗龙卷？ [URL:https://www.zhihu.com/question/322092661]
+8. 什么样的领导是不值得跟随的？ [URL:https://www.zhihu.com/question/1890718643328905551]
+9. 网传鹰角《终末地》存在「盗用文件无登录上线」Bug，这暴露了哪些安全漏洞？ [URL:https://www.zhihu.com/question/1997859333069898069]
+10. 甜茶小李子争影帝，赵婷再冲击最佳导演，《疯狂动物城 2》提名动画长片，如何评价 2026 奥斯卡入围名单？ [URL:https://www.zhihu.com/question/1997791423072850718]
+11. 为妈妈手术托关系找主任，仅一面之缘后全程没人管，该怎么办？ [URL:https://www.zhihu.com/question/1997799276575744993]
+12. 本能寺之变织田信长为什么打不过明智光秀？ [URL:https://www.zhihu.com/question/307494224]
+13. 火爆游戏「青椒模拟器」让玩家体验高校教师升级打怪之路，为啥这款游戏能引发广泛共鸣？ [URL:https://www.zhihu.com/question/1996883902841778815]
+14. 如果人意外离世，存款家人都不知，是不是就归银行了？ [URL:https://www.zhihu.com/question/1995260083282661484]
+15. 有哪些我们习以为常的事物和现象其实只有在经济高速增长时期才会普遍存在？ [URL:https://www.zhihu.com/question/1995254368061105318]
+16. 「做任何事之前一定不能告诉任何人」这种观点为何流行？其心理学依据是什么？ [URL:https://www.zhihu.com/question/1997247522612213719]
+17. 明代城市的市井生活有哪些好玩的？ [URL:https://www.zhihu.com/question/1997315967080952924]
+18. 上班是法务，下班是偷车厘子惯犯，嫌疑人被刑事拘留，不缺钱却长期盗窃是一种什么心理？这和精神疾病有关吗？ [URL:https://www.zhihu.com/question/1997239490343825823]
+19. 考研失败情侣返乡种橙，7 年后「逆风翻盘」，他们的成功关键是什么？这种农业 + 短视频的模式可复制吗？ [URL:https://www.zhihu.com/question/1997623498252707401]
+20. 自己写的 CUDA 矩阵乘法能优化到多快？ [URL:https://www.zhihu.com/question/41060378]
+
+==== 以下ID请求失败 ====
+qichacha
+wenshu
+acla
+10jqka
+qichacha_law
+ccarb
+itslaw
+10jqka_law
+court_gov
